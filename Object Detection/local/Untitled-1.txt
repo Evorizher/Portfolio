@@ -1,8 +1,0 @@
--   explain what is object localization in intro.
--   explain what the objectives are: building an object localization model with dataset from the web.
--   look at the annot file and image file.
--   locate annot files and extract the content.
--   preprocess the images and add them into a list.
--   show the object and bounding box in the images.
--   split to train and validation.
--   load classification model, remove the fully-connected layers, make new model but functional, make two fully connected layers in parallel: one for classification and the other for the bounding box regression.

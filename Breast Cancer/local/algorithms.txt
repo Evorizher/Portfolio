@@ -1,9 +1,0 @@
-- logistic regression
-- naive bayes classifier 
-- kNN 
-- svm 
-- decision tree 
-
-- random forest 
-- xgboost 
-- 
