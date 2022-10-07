@@ -1,0 +1,23 @@
+Some things that I find interesting: 
+- There are more students in GP school than MS school. Might want to check reasons why there are more students in GP school. 
+- Male and female students are quite similar in count. Which of male and female students score better? 
+-- There are students with age of 20 and above. Might want to check their score (G1, G2, G3), school support, family support, and whether they want higher education. 
+- There are a few students in rural area. Might want to check traveltime. 
+- A few students don't live with their parent/family. Might want to check family support and school support. 
+- Most parents are educated with mothers mostly have higher education. On contrast, fathers mostly in 5th to 9th grade. Might want to check parents education on scores. 
+-- Most parents work in other jobs. More mothers are at home. Might want to check the numbers. 
+- Students chose their school mostly because of the course. As stated in point 1, might want to analyze school and reason together. 
+-- Most guardians are mother. Is there any correlation with more mother being at home? 
+- Most students doesn't travel far from their homes to school. Might want to check travel time, school, address. Maybe MS school in rural area, since it doesn't have a lot of students and yet most travel time is the lowest. 
+- Most students don't have extra educational support. 
+- Most students have educational support from family, but there is not much different than those who don't. 
+- Does extra paid class has something to do with scores? 
+- Students with and without extra-curricular activities are pretty even. Let's check the score. 
+- Check students who want higher education with scores. 
+- Check students who has internet access and those who don't with scores. Check internet with study time. 
+- Check romantic with study time and scores and sex. 
+- Check free time with study time. 
+- Check alcohol consumption with scores, study time. 
+- Check health with alcohol, study time, scores. 
+- Check absences with students aging 20 above, failed, scores. 
+- Scores (G1, G2, G3) are pretty normal in distribution. Although there are 0 scores in G2 and G3. 
